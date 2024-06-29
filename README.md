@@ -1,7 +1,5 @@
-Sure! Here is a simple `README.md` file for your `SimpleEventRegistration` smart contract project:
 
-```markdown
-# SimpleEventRegistration Smart Contract
+\# SimpleEventRegistration Smart Contract
 
 This is a simple smart contract for event registration that demonstrates the use of `require()`, `assert()`, and `revert()` statements in Solidity.
 
